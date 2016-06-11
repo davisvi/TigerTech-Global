@@ -1,6 +1,6 @@
 var table_V = {
    "Hello World!"
 }
-function get(){
+function getTable(){
    return table_V
 }
