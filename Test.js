@@ -1,7 +1,8 @@
-var table_V = {
-   "Hello World!"
-}
+var table_V = [
+   "Hello World!",
+   "ABC"
+]
 function getTable(){
    return table_V
 }
-console,log("LibLoaded")
+console.log("Import Sucsessfull")
