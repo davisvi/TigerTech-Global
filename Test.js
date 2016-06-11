@@ -4,3 +4,4 @@ var table_V = {
 function getTable(){
    return table_V
 }
+console,log("LibLoaded")
