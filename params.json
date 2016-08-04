@@ -1,6 +1,6 @@
 {
   "name": "Tigertech",
   "tagline": "",
-  "body": "<style>\r\nbackground-color: blue;\r\n</style>\r\nThis is a Library hosted by github, this holds large librarys of code that can be modified to effect hosted sites without modifying their code.\r\n",
+  "body": "The Tigertech club site is pulling information from this library, that way i don't have to update the site to include new information.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
