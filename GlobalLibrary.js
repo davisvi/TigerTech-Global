@@ -18,7 +18,7 @@ var link_Table = [
 var BannerOn = true;
 var IncludeLink = false;
 var Prefix = "[Attention]: "
-var Message = "Suprise Banner test!"
+var Message = "to test the timing of the banner."
 var MessageLink = "http://google.com/"
 MessageLink = "<a href=''" + MessageLink + "'>" + MessageLink + "</a>"
     // End of Banner Settings
