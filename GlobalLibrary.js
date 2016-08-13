@@ -8,7 +8,8 @@ var news_Table = [
     "<u><sup>07,14,16</sup></u>&nbsp;Debugging stage...",
     "<u><sup>07,28,16</sup></u>&nbsp;Debugging complete! with no errors! :D",
     "<u><sup>08,01,16</sup></u>&nbsp;Now linked to remotely hosted library",
-    "<u><sup>08,13,16</sup></u>&nbsp;Final Revisions, checking all source code."
+    "<u><sup>08,13,16</sup></u>&nbsp;Final Revisions, checking all source code.",
+    "Hello?",
 ]
 var link_Table = [
         "https://lebanon.instructure.com/login/ldap",
