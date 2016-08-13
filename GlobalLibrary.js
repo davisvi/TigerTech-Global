@@ -7,7 +7,8 @@ var news_Table = [
     "News, Announcements and Bannars are now controlled remotely",
     "Debugging stage...",
     "Debugging complete! with no errors! :D",
-    "Now linked to remotely hosted library"
+    "Now linked to remotely hosted library",
+    "Final Revisions, checking all source code."
 ]
 var link_Table = [
         "https://lebanon.instructure.com/login/ldap",
@@ -15,7 +16,7 @@ var link_Table = [
         "https://github.com/",
     ]
     // Banner Settings
-var BannerOn = true;
+var BannerOn = false;
 var IncludeLink = false;
 var Prefix = "[Attention]: "
 var Message = "to test the timing of the banner."
