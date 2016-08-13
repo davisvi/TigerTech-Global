@@ -1,14 +1,14 @@
 // This library is to be hosted on github so that
 // i can remotly change small aspects of the site.
 var news_Table = [
-    "Our First news Cast!",
-    "Testing Complete.",
-    "Revamping Pages",
-    "News, Announcements and Bannars are now controlled remotely",
-    "Debugging stage...",
-    "Debugging complete! with no errors! :D",
-    "Now linked to remotely hosted library",
-    "Final Revisions, checking all source code."
+    "<u><sup>07,03,16</sup></u>&nbsp;Our First news Cast!",
+    "<u><sup>07,07,16</sup></u>&nbsp;Testing Complete.",
+    "<u><sup>07,08,16</sup></u>&nbsp;Revamping Pages",
+    "<u><sup>07,12,16</sup></u>&nbsp;News, Announcements and Bannars are now controlled remotely",
+    "<u><sup>07,14,16</sup></u>&nbsp;Debugging stage...",
+    "<u><sup>07,28,16</sup></u>&nbsp;Debugging complete! with no errors! :D",
+    "<u><sup>08,01,16</sup></u>&nbsp;Now linked to remotely hosted library",
+    "<u><sup>08,13,16</sup></u>&nbsp;Final Revisions, checking all source code."
 ]
 var link_Table = [
         "https://lebanon.instructure.com/login/ldap",
