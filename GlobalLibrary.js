@@ -20,7 +20,7 @@ var link_Table = [
 var BannerOn = true;
 var IncludeLink = false;
 var Prefix = "[Attention]: "
-var Message = "Testing the new linking system."
+var Message = "burning the bugs out..."
 var MessageLink = "http://google.com/"
 MessageLink = "<a href=''" + MessageLink + "'>" + MessageLink + "</a>"
     // End of Banner Settings
@@ -67,5 +67,6 @@ if(window.location.pathname.split("/").pop()=="index.html"){
     document.getElementById("NewsHolder3").innerHTML = newsTable[2]
     document.getElementById("NewsHolder4").innerHTML = newsTable[3]
 }
-document.getElementById("Banner").innerHTML = getBanner()
-console.log(document.lastModified)
+if(window.location.pathname.split("/").pop()=!"newsList"){
+    document.getElementById("Banner").innerHTML = getBanner()
+}
