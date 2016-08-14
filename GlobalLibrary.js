@@ -9,6 +9,7 @@ var news_Table = [
     "<u><sup>07,28,16</sup></u>&nbsp;Debugging complete! with no errors! :D",
     "<u><sup>08,01,16</sup></u>&nbsp;Now linked to remotely hosted library",
     "<u><sup>08,13,16</sup></u>&nbsp;Final Revisions, checking all source code.",
+    "<u><sup>08,14,16</sup></u>&nbsp;Version 3! new linking script!",
 ]
 var link_Table = [
         "https://lebanon.instructure.com/login/ldap",
@@ -16,10 +17,10 @@ var link_Table = [
         "https://github.com/",
     ]
     // Banner Settings
-var BannerOn = false;
+var BannerOn = true;
 var IncludeLink = false;
 var Prefix = "[Attention]: "
-var Message = "to test the timing of the banner."
+var Message = "Testing the new linking system."
 var MessageLink = "http://google.com/"
 MessageLink = "<a href=''" + MessageLink + "'>" + MessageLink + "</a>"
     // End of Banner Settings
