@@ -56,3 +56,14 @@ function getBanner() {
         return null
     }
 }
+if(var PageName = window.location.pathname.split("/").pop()=="index.html"){
+    var newsTable = getNews();
+    newsTable = newsTable.slice(newsTable.length - 4, newsTable.length);
+    newsTable.reverse()
+    document.getElementById("PageLinks").innerHTML = getLinks()
+    document.getElementById("NewsHolder1").innerHTML = newsTable[0]
+    document.getElementById("NewsHolder2").innerHTML = newsTable[1]
+    document.getElementById("NewsHolder3").innerHTML = newsTable[2]
+    document.getElementById("NewsHolder4").innerHTML = newsTable[3]
+}
+document.getElementById("Banner").innerHTML = getBanner()
