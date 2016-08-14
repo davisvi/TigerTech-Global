@@ -57,7 +57,7 @@ function getBanner() {
         return null
     }
 }
-if(var PageName = window.location.pathname.split("/").pop()=="index.html"){
+if(window.location.pathname.split("/").pop()=="index.html"){
     var newsTable = getNews();
     newsTable = newsTable.slice(newsTable.length - 4, newsTable.length);
     newsTable.reverse()
