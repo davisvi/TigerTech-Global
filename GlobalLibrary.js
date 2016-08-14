@@ -68,3 +68,4 @@ if(var PageName = window.location.pathname.split("/").pop()=="index.html"){
     document.getElementById("NewsHolder4").innerHTML = newsTable[3]
 }
 document.getElementById("Banner").innerHTML = getBanner()
+console.log(document.lastModified)
