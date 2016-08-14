@@ -67,6 +67,6 @@ if(window.location.pathname.split("/").pop()=="index.html"){
     document.getElementById("NewsHolder3").innerHTML = newsTable[2]
     document.getElementById("NewsHolder4").innerHTML = newsTable[3]
 }
-if(window.location.pathname.split("/").pop()=!"newsList"){
+if(window.location.pathname.split("/").pop()!="newsList"){
     document.getElementById("Banner").innerHTML = getBanner()
 }
