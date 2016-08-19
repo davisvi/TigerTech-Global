@@ -18,7 +18,7 @@ var link_Table = [
         "https://github.com/",
     ]
     // Banner Settings
-var BannerOn = false;
+var BannerOn = true;
 var IncludeLink = false;
 var Prefix = "[Attention]: "
 var Message = "burning the bugs out..."
