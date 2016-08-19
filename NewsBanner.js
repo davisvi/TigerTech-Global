@@ -16,6 +16,7 @@ var link_Table = [
         "https://lebanon.instructure.com/login/ldap",
         "http://www.tiger-tech.org/",
         "https://github.com/",
+        "http://camrynd.github.io/TigerTech-Global/",
     ]
     // Banner Settings
 var BannerOn = true;
